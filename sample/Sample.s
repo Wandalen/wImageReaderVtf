@@ -3,5 +3,5 @@ let _ = require( 'wimagereadervtf' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
